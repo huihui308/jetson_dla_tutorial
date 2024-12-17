@@ -1,0 +1,1 @@
+onnx_graphsurgeon==0.5.2
